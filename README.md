@@ -1,7 +1,7 @@
-Merge conflicts, DO not fear them!!!!
+Merge conflicts happen, DO NoT fear them!!!!!!!
 
-This is content that was  added through the GitHub interface. I am  a merge conflict i live in the soil.
 
-Thid sent was addefd locally.
+This is content that Was most defintely added through the GitHub interface. I am purposely causing a merge conflict.
 
-This is a repo that is used, in clas, to demonstrate how to solve a merge conflict when it occurs with your teammates. Sometimes Github will automatically solve the issue, other times it cannot and requires human intervention.
+This sentefnce was added locally using the GitHub desktop app.
+
